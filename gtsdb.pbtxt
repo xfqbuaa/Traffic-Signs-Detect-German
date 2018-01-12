@@ -1,0 +1,215 @@
+item { 
+  id: 1
+  name: 'speed limit 20'
+}
+
+item { 
+  id: 2
+  name: 'speed limit 30'
+}
+
+item { 
+  id: 3
+  name: 'speed limit 50'
+}
+
+item { 
+  id: 4
+  name: 'speed limit 60'
+}
+
+item { 
+  id: 5
+  name: 'speed limit 70'
+}
+
+item { 
+  id: 6
+  name: 'speed limit 80'
+}
+
+item { 
+  id: 7
+  name: 'restriction ends 80'
+}
+
+item { 
+  id: 8
+  name: 'speed limit 100'
+}
+
+item { 
+  id: 9
+  name: 'speed limit 120'
+}
+
+item { 
+  id: 10
+  name: 'no overtaking'
+}
+
+item { 
+  id: 11
+  name: 'no overtaking (trucks)'
+}
+
+item { 
+  id: 12
+  name: 'priority at next intersection'
+}
+
+item { 
+  id: 13
+  name: 'priority road'
+}
+
+item { 
+  id: 14
+  name: 'give way'
+}
+
+item { 
+  id: 15
+  name: 'stop'
+}
+
+item { 
+  id: 16
+  name: 'no traffic both ways'
+}
+
+item { 
+  id: 17
+  name: 'no trucks'
+}
+
+item { 
+  id: 18
+  name: 'no entry'
+}
+
+item { 
+  id: 19
+  name: 'danger'
+}
+
+item { 
+  id: 20
+  name: 'bend left'
+}
+
+item { 
+  id: 21
+  name: 'bend right'
+}
+
+item { 
+  id: 22
+  name: 'bend'
+}
+
+item { 
+  id: 23
+  name: 'uneven road'
+}
+
+item { 
+  id: 24
+  name: 'slippery road'
+}
+
+item { 
+  id: 25
+  name: 'road narrows'
+}
+
+item { 
+  id: 26
+  name: 'construction'
+}
+
+item { 
+  id: 27
+  name: 'traffic signal'
+}
+
+item { 
+  id: 28
+  name: 'pedestrian crossing'
+}
+
+item { 
+  id: 29
+  name: 'school crossing'
+}
+
+item { 
+  id: 30
+  name: 'cycles crossing'
+}
+
+item { 
+  id: 31
+  name: 'snow'
+}
+
+item { 
+  id: 32
+  name: 'animals'
+}
+
+item { 
+  id: 33
+  name: 'restriction ends'
+}
+
+item { 
+  id: 34
+  name: 'go right'
+}
+
+item { 
+  id: 35
+  name: 'go left'
+}
+
+item { 
+  id: 36
+  name: 'go straight'
+}
+
+item { 
+  id: 37
+  name: 'go right or straight'
+}
+
+item { 
+  id: 38
+  name: 'go left or straight'
+}
+
+item { 
+  id: 39
+  name: 'keep right'
+}
+
+item { 
+  id: 40
+  name: 'keep left'
+}
+
+item { 
+  id: 41
+  name: 'roundabout'
+}
+
+item { 
+  id: 42
+  name: 'restriction ends (overtaking)'
+}
+
+item { 
+  id: 43
+  name: 'restriction ends (overtaking (trucks))'
+}
+
