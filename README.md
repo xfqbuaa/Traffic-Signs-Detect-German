@@ -43,6 +43,12 @@ SSD      | faster
 ---------|--------------
 ![](./images/ssd_map.png) | ![](./images/faster_map.png)
 
+A similar mAP value [benchmark](https://books.google.com/books?id=aSEsDwAAQBAJ&pg=PA221&lpg=PA221&dq=GTSDB+mAP&source=bl&ots=hu7-LFfG2J&sig=paO26Fz5gn0fUuILg7RVnUSAYrI&hl=zh-CN&sa=X&ved=0ahUKEwiPiOPLr7vZAhWL5IMKHeFqBRkQ6AEIKjAA#v=onepage&q=GTSDB%20mAP&f=false) material can be found  with same faster method.
+
+The main poor mAP value reason mentioned by benchmark material, due to the low amount of training images and lack of noise with the signs in the GTSRB images have. The benchmark also provided a solution through generating images with GTSRB and Road/Lane dataset.  
+
+![](./images/reference.png)
+
 ### Images
 The detection results on test samples are impressive, especially for some images with small traffic signs.
 * images detection examples
@@ -116,6 +122,8 @@ There are a lot of improvements can be done in the future for traffic signs dete
 [Detect and Classify Species of Fish from Fishing Vessels with Modern Object Detectors and Deep Convolutional Networks](https://flyyufelix.github.io/2017/04/16/kaggle-nature-conservancy.html)
 
 [A Real-Time Chinese Traffic Sign Detection Algorithm Based on Modified YOLOv2](http://www.mdpi.com/1999-4893/10/4/127/htm)
+
+[Cognitive Systems and Signal Processing page 220](https://books.google.com/books?id=aSEsDwAAQBAJ&pg=PA221&lpg=PA221&dq=GTSDB+mAP&source=bl&ots=hu7-LFfG2J&sig=paO26Fz5gn0fUuILg7RVnUSAYrI&hl=zh-CN&sa=X&ved=0ahUKEwiPiOPLr7vZAhWL5IMKHeFqBRkQ6AEIKjAA#v=onepage&q=GTSDB%20mAP&f=false)
 
 ## Licenses
 German traffic signs detection specific code is distributed under MIT License.
